@@ -1,0 +1,11 @@
+{
+  "name": "colorize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Alex Rossiter <terrenmoe@gmail.com>",
+  "license": "MIT"
+}
